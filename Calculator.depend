@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1641878186 source:c:\users\duy\onedrive - actvn.edu.vn\documents\cprogram\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	"chucnang.h"
+	"menu.h"
+
+1641696272 c:\users\duy\onedrive - actvn.edu.vn\documents\cprogram\calculator\chucnang.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1641534766 c:\users\duy\onedrive - actvn.edu.vn\documents\cprogram\calculator\menu.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
